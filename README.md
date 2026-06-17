@@ -1,4 +1,4 @@
-PhD candidate in **cosmology** at APC Paris (defense: September 2026), working on the [QUBIC](https://www.qubic.org.ar/) experiment — a bolometric interferometer searching for primordial gravitational wave signatures in the CMB. Lead developer of the simulation and reconstruction pipeline. 
+PhD candidate in **cosmology** at APC Paris (defense: September 2026), working on the [QUBIC](https://www.qubic.org.ar/) experiment, a bolometric interferometer searching for primordial gravitational wave signatures in the CMB. Lead developer of the simulation and reconstruction pipeline. 
 
 On the side, I am building a rigid-body physics engine in C++23 focused on scientific rigor and performance.
 
