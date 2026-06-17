@@ -8,9 +8,9 @@ On the side, I am building a rigid-body physics engine in C++23 focused on scien
 
 **Research @ QUBIC**
 - Simulation, reconstruction and data analysis pipeline for a novel bolometric interferometer
-- Component Map-Making (CMM) and Frequency Map-Making (FMM)
+- Component Map-Making (CMM), Frequency Map-Making (FMM) & Neural Network Map-Making (NNMM)
 - Large-scale linear system solving using numerical methods & machine learning
-- Parallelization with mpi4py (Python) and OpenMP (Fortran); SLURM cluster deployment
+- Parallelisation with mpi4py (Python) and OpenMP (Fortran); SLURM cluster deployment
 - Calibration tools, noise analysis, and systematic effects modeling
 
 ---
@@ -19,7 +19,7 @@ On the side, I am building a rigid-body physics engine in C++23 focused on scien
 
 ### [3DPhysicsEngine](https://github.com/TomLaclavere/3DPhysicsEngine)
 Modular rigid-body physics engine in **C++23** built around scientific rigor and performance.
-- Custom 3D math library (Vector3D, Matrix3D, Quaternion) — zero external dependencies
+- Custom 3D math library (Vector3D, Matrix3D, Quaternion), zero external dependencies
 - Three numerical integrators: semi-implicit Euler, Störmer-Verlet, Runge-Kutta 4
 - Two-phase collision pipeline (AABB broad-phase + analytical narrow-phase)
 - **Current phase:** CPU optimization (SIMD, OpenMP) · **Roadmap:** CUDA/SYCL, MPI
