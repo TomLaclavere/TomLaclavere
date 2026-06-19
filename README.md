@@ -25,7 +25,7 @@ Modular rigid-body physics engine in **C++23** built around scientific rigor and
 - **Current phase:** CPU optimization (SIMD, OpenMP) · **Roadmap:** CUDA/SYCL, MPI
 
 ### [qubicsoft/qubic](https://github.com/qubicsoft/qubic)
-Simulation pipeline and data analysis tools for the QUBIC CMB experiment. Lead developer: >30k LoC, >500 commits, deployed on SLURM.
+Simulation pipeline and data analysis tools for the QUBIC CMB experiment. Lead developer: >30k LoC, >650 commits, deployed on SLURM.
 
 ### [PhD](https://github.com/TomLaclavere/PhD)
 Thesis, publications, and presentations on QUBIC data analysis and component separation. Used to auto-generate and host my academic website.
